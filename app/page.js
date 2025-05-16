@@ -1,9 +1,10 @@
+import Terserah from "@/components/terserah";
+import HeroSectionOne from "@/components/hero-section-demo-1";
 export default function page() {
   return (
     <div>
-      <h1>page</h1>
-      <p>joharbolpetek</p>
-      <p>jajalan</p>
+      <HeroSectionOne/>
+      <Terserah/>
     </div>  
   ) ;
 }
